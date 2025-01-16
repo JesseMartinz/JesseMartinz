@@ -3,9 +3,9 @@ Olá! Sou o Jessé Martins👋
 - 🔭 Estou focado em voltar a trabalhar com o C sharp
 
  <div>
-   <a href="https://github.com/JesseMartinz">
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JesseMartinz&show_icons=true&dark&include_all_commits=true&count_private=true"/>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseMartinz&layout=compact&langs_count=16&theme=dracula"/>
+   <a href="https://beacons.ai/JesseMartinz">
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JesseMartinz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseMartinz&layout=compact&langs_count=16&theme=dark"/>
  </div>
 
  <div style="display: online_block"><br>
