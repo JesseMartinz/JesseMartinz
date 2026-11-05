@@ -1,6 +1,6 @@
 Olá! Sou o Jessé Martins👋
 
-- 🔭 Estou focado em voltar a trabalhar com o C sharp
+- 🔭 
 
  <div>
    <a href="https://beacons.ai/JesseMartinz">
